@@ -26,3 +26,6 @@ Twitter Follower-Followee Graph for CAA-NRC
 
 **![image](https://user-images.githubusercontent.com/57289951/147874291-40f4f7c2-cb64-48b9-b127-17579b276958.png)
 
+![rq22](https://user-images.githubusercontent.com/62093616/126904045-01341a80-bea1-4111-bf4b-72d6fa04e37f.png)
+Twitter Follower-Followee relations between Democrats, Republicans and the Black Lives Matter Protesters
+
