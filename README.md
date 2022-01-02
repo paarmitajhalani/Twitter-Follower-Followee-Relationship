@@ -22,9 +22,7 @@ Now, in order to display these relations diagramatically in a graph network we u
 Gephi also allows other visual features like making the nodes different sized based on eigenvector centrality and displaying different colours and labels and their layouts. 
 
 
-Twitter Follower-Followee Graph for CAA-NRC
-![Screenshot 2022-01-02 at 5 01 42 PM](https://user-images.githubusercontent.com/62093616/147874422-ad1408b0-aa10-4390-8c45-13921e8b5d4b.png)
-
+Twitter Follower-Followee Graph for CAA-NR
 
 **![image](https://user-images.githubusercontent.com/57289951/147874291-40f4f7c2-cb64-48b9-b127-17579b276958.png)
 
